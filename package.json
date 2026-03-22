@@ -1,0 +1,20 @@
+{
+  "name": "adaptive-agent-system",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestration framework for adaptive user experiences",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest"
+  },
+  "keywords": [
+    "agent",
+    "orchestration",
+    "adaptive",
+    "typescript"
+  ],
+  "author": "Sfraley87",
+  "license": "MIT"
+}
